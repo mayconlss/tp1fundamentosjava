@@ -40,7 +40,7 @@ FIM.
 
 ## Casos de Testes do sistema
 
-###### Teste 01 - Cadastrando aluno.
+###### Teste 01 - Cadastrando aluno. 
 ![image](https://user-images.githubusercontent.com/41709718/97786166-84a77000-1b88-11eb-98a0-fd50bdecfd4b.png)
 <br/>
 
